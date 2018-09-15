@@ -1,0 +1,2 @@
+# Valarie-sAdoptionDB
+A project that was part of my senior year in high school. We had to look for a non profit organisation and create a simple Java application that uses MYSQL database. I picked a local animal adoption shelter. My task was to help her organize her papers for those who have adopted in the past and those who will be adopting in the future. The main objective was to take her from using physical records to completely digital records.
